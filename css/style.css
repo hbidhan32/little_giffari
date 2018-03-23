@@ -1,0 +1,914 @@
+.left{
+        float:left;
+}
+
+.right{
+        float:right;
+}
+
+.blue_color{
+        color:#54BAFE;
+}
+
+.deepblue_color{
+        color:#5853FE;
+}
+
+.red_color{
+        color:#E45C5F;
+}
+
+.tumblr_color{
+        color:#203861;
+}
+
+.green_color{
+        color:#68D67C;
+}
+
+.red_color{
+        color:#E45C5F;
+}
+
+.yellow_color{
+        color:#F8D73E;
+}
+
+.blue{
+        background-color:#54BAFE;
+}
+
+.green{
+        background-color:#68D67C;
+}
+
+.red{
+        background-color:#E45C5F;
+}
+
+.yellow{
+        background-color:#F8D73E;
+}
+
+.border_blue{
+        border-bottom: 4px dotted #54BAFE;
+}
+
+.border_green{
+        border-bottom: 4px dotted #68D67C;
+}
+
+.border_yellow{
+        border-bottom: 4px dotted #F8D73E;
+}
+
+header{
+        background-color: #F8D73E;
+        min-height: 75px;
+}
+
+.menu{
+        padding-left: 10%;
+}
+
+.logo{
+        padding: 15px 0px;
+}
+
+.menu_bar{ 
+        margin: 20px 0 0px 0;}
+.menu_bar ul li a {
+       color: white;
+       margin-left: 40px;
+       line-height: 10px;
+       margin: 3px 10px;
+	   font-weight: 600;
+       font-size: 18px;
+}
+	
+.menu_bar ul li a:hover {
+       background-color:#f05c5c;
+       border-radius: 20px;
+	
+}
+
+.navbar-right{
+        right:1%;
+        position:absolute;
+
+}
+
+.navbar-brand{
+       display:none;
+} 
+
+.i_search{
+       background: transparent;
+       border: none;
+       z-index: 99;
+}
+.tomorrow_land{
+       min-height:160px;    
+}
+
+.user{
+      color: white;
+      position: absolute;
+      left: 175px; 
+    
+}
+.search, .ser-btn{
+      color: white;
+      background: none;     
+}
+
+#cloud{
+        min-height:630px;
+        background-color:aliceblue;
+}
+
+.img_down{
+        margin-top:80px;
+}
+
+.img_down_1{
+        margin-top:15px;
+}
+
+.img_down_2{
+        margin-top:22px;
+}
+
+.img_down_3{
+        margin-top:53px;
+}
+
+#tomorrow_land{
+        background-color:#FFFFFF;
+        min-height:200px;
+}
+
+.tomorrow_land h1{
+        color:#6F6F6F;
+        font-size: 45pt;
+        font-weight: bold;
+        font-family: Dosis;
+}
+
+.tomorrow_land h4{
+        color: #54BAFE;
+        font-size: 35pt;
+        font-weight: bold;
+        font-family: Dosis;
+}
+
+#big_cloud{
+        min-height: 700px;
+        background:url(../img/bg_cloud.png) no-repeat center;
+        background-size:cover;
+        background-color: aliceblue;
+}
+
+.desiration h1{
+        padding-top: 130px;
+        font-family: Dosis;
+        font-weight: bold;
+        font-size: 30pt;
+        text-transform: uppercase;
+}
+
+.desiration h3{
+        font-family: Lato;
+        font-weight:regular;
+        opacity: 0.3;
+        font-size: 24px;
+}
+
+.scroll{
+        font-size:50px;
+        font-weight:normal;
+}
+.desiration a{
+        color:black;
+        opacity:0.6
+}
+
+.desiration p{
+        font-family:Dosis;
+        font-size:15pt;
+        font-weight:bold;
+        color:#d6d6d5;
+}
+
+.our_desiration_last{
+        padding-top: 60px;
+        padding-bottom: 70px;
+}
+
+.about_school_left h1{
+        font-family:Dosis;
+        font-size:24pt;
+        font-weight:bold;
+}
+
+.about_school_left p{
+        font-family: Dosis;
+        font-size: 15pt;
+        font-weight: normal;
+}
+
+.about_school_left button{
+        background: url(../img/button_shape.png) no-repeat center;
+        font-size: 25px;
+        padding: 30px 70px;
+        color: #ff6666;
+        border: none;
+        text-transform: uppercase;
+}
+
+.about_school_right{
+        height:320px;
+        width:570px;
+        background-color:#A7A7A7;
+        border-radius: 25px;
+}
+
+.about_school_right h1{
+        font-size: 40pt;
+        font-weight: bold;
+        padding: 130px 188px;
+        color:#6F6F6F;
+        font-family: Dosis;
+}
+
+#our_desire_2{
+        background: url(../img/desiration_bg.png) no-repeat center;
+        background-size:cover;
+        min-height: 660px;
+}
+
+
+.main_content h1{
+        font-family: Dosis;
+        font-size: 30pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-top: 90px;
+}
+.main_content p{
+        font-weight: bolder;
+        color: white;
+        text-shadow: 0px 3px;
+        font-size: 42pt;
+}
+
+
+.content_circle{
+        margin-top:60px;
+        margin-bottom:50px;
+}
+
+.brown_circle h3{
+        height: 150px;
+        width: 150px;
+        background-color: #A7A7A7;
+        padding: 55px 33px;
+        margin: 35px 55px;
+        border-radius: 50%;
+        font-family: Dosis;
+        font-weight: bold;
+}
+
+.brown_circle h2{
+        text-align:center;
+        font-size:26pt;
+        color:#EFF7FC;
+        font-weight: bold;
+        font-family: Dosis;
+}
+
+.orange_circle h3{
+        height: 150px;
+        width: 150px;
+        background-color: #E0772A;
+        padding: 55px 30px;
+        margin: 35px 55px;
+        border-radius: 50%;
+        font-family: Dosis;
+        font-weight: bold;
+}
+
+.orange_circle h2{
+        text-align:center;
+        font-size:26pt;
+        color:#EFF7FC;
+        font-weight: bold;
+        font-family: Dosis;
+}
+
+#feature_section{
+        min-height:500px;
+}
+
+.title h1{
+        font-family: Dosis;
+        font-size: 30pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-top: 100px;
+}
+
+.title p{
+        font-weight: bolder;
+        text-shadow: 0px 3px;
+        font-size: 25pt;
+        color: lightgray;
+}
+
+.featured_description{
+        height: 435px;
+        width: 255px;
+        margin: 55px 0px;
+        border-radius: 20px;
+        box-shadow: 0px 6px 0px 0px #DCDCDC;
+}
+.featured_description h3{
+       height: 40px;
+       padding: 11px 0px;
+       font-size: 12pt;
+       margin-bottom: 0px;
+       border-top-left-radius: 20px;
+       border-top-right-radius: 20px;
+       font-family: Lato;
+       font-weight: bold;
+       color:white;
+}
+
+.price_circle{
+        height: 210px;
+        width: 100%;
+}
+
+.price_circle h1{
+        height: 210px;
+        width: 100%;
+        padding: 80px 0px;
+        color: #6F6F6F;
+        font-family: Dosis;
+        font-weight: bold;
+        background-color: #DCDCDC;
+}
+.price_circle h2{
+        height: 210px;
+        width: 100%;
+        padding: 80px 0px;
+}
+.price_variation{
+        height:50px;
+        width:50px;
+        border-radius: 50%; 
+        margin-top: -32px;
+        margin-left: 190px;
+}
+
+.price_variation h5{
+        font-size:15pt;
+        padding-top: 4px;
+        margin-bottom: 0px;
+}
+
+.price_variation h6{
+        font-size:9pt;
+}
+.featured_description h2{
+        margin: 15px 0px;
+        font-size: 15pt;
+        color: #89D6FE;
+        font-weight:600;
+        font-family: Dosis;
+}
+.featured_description p{
+        font-size: 11pt;
+        font-family: Lato;
+        font-weight: lighter;
+        height:70px;
+}
+
+.age_class{
+        margin: 32px 0px;
+}
+.age_class h4{
+        font-size: 14pt;
+        padding: 0px 8px;
+        font-family: Dosis;
+        font-weight: normal;
+}
+
+.extension_plus h1{
+        background-color: #68D67C;
+        padding-top: 2px;
+        border-radius: 30px;
+        color: white;
+        font-size: 25pt;
+        padding-bottom: 9px;
+        font-weight: bold;
+        margin-bottom: 50px;
+}
+
+#memorable_moments{
+        background:url(../img/memorable_bg.png) no-repeat;
+        background-size: cover;
+        
+}
+
+#memorable_moments h3{
+        height: 200px;
+        width: 270px;
+        padding: 80px 80px;
+        background-color: #FFFFFF;
+        margin: 20px 0px;
+        font-family: Dosis;
+        font-weight: bold;
+        font-size: 24pt;
+        color: #6F6F6F;
+        border-radius: 20px;
+}
+
+.view_more_btn button{
+        padding: 30px 70px;
+        font-family: Dosis;
+        text-transform: uppercase;
+        border: none;
+        color: #E45C5F;
+        background: url(../img/button_shape.png) no-repeat center;
+        font-size: 20pt;
+        margin-bottom: 50px;
+}
+
+.header_moments{
+        padding:65px 0px;
+}
+
+.header_moments h1{
+        color:black;
+        font-family:Dosis;
+        font-weight:bold;
+        font-size:30pt;
+        text-transform:uppercase;    
+        text-shadow: 2px 2px white;
+}
+
+.header_moments p{
+        font-weight: bolder;
+        color: white;
+        text-shadow: 0px 3px;
+        font-size: 42pt;
+}
+
+#what_we_did{
+        background: url(../img/what_we_did.png) no-repeat center;
+        background-size:cover;
+        background-position:fixed;        
+}
+
+#what_we_did h3{
+        padding: 60px 0px;
+        font-family: Dosis;
+        text-transform: uppercase;
+        font-size: 30pt;
+        font-weight: bold;
+        color: #78DD98;
+        text-shadow: 2px 2px white;
+}
+#what_we_did p{
+        font-weight: bold;
+        color: white;
+        text-shadow: 0px 2px white;
+        font-size: 24pt;    
+        font-family: Dosis;
+}
+
+#what_we_did h4{
+        font-weight: bold;
+        color: white;
+        font-size: 24pt;    
+        font-family: Dosis;
+}
+
+.things_did{
+        margin-bottom:60px;
+}
+
+#what_we_did h1{
+        font-size:25pt;
+        font-weight:bold;
+        color:white;
+        margin-bottom: -10px;
+        font-family: Dosis;
+}
+
+#what_we_did img{
+        margin-top:0px;
+}
+
+#event_news{
+        padding:60px 0px;
+        box-shadow: 0px 3px 0px 0px #DCDCDC;
+}
+
+.content_headlines h1{
+        width:100%;
+        font-family: Dosis;
+        font-weight: bold;
+        font-size: 30pt;
+        color:#363636;
+        text-align:left;
+}
+
+.content_headlines p{
+        width:100%;
+        font-family: Dosis;
+        font-weight: bold;
+        font-size: 20pt;
+        text-shadow: 0px 9px #DCDCDC;
+        color: white;
+}
+
+.content_details h5{
+        text-align: left;
+        margin-left: 40px;
+        font-size: 11pt;
+}
+.content_details h5 span{
+        color: #54BAFE;
+}
+
+.content_details h2{
+        font-family: Dosis;
+        font-weight: bold;
+        text-align: left;
+        margin-left: 40px;
+        font-size: 24pt;
+}
+
+.clock_icon{
+        color:#54BAFE;
+}
+
+.circle_date{
+        height: 90px;
+        border-radius: 57%;
+        padding: 2px 25px;
+}
+
+.circle_date h4{
+        font-family: Dosis;
+        font-size: 40pt;
+        color: white;
+}
+
+.margin_left h4{
+        margin-left:-9px;
+}
+.circle_date h6{
+        font-size: 12pt;
+        margin-top: -14px;
+        margin-left: 5px;
+        font-family: Dosis;
+        font-weight: 500;
+        color: white;
+}
+
+.content_details{
+        margin: 30px 0px;
+}
+
+.kindergarten_details p{
+        width: 100%;
+        font-family: Dosis;
+        font-size: 14pt;
+        text-align: left;
+        margin-left: 40px;
+}
+
+.kindergarten_details button{
+        border:none;
+        font-size:20pt;
+        color:#F09339;
+        text-align:left;
+        margin-left:30px;
+        text-transform: uppercase;
+}
+
+.left_side_news h1{
+        
+}
+
+.left_side_news p{
+        
+}
+
+.left_side_news h4{
+        background-color: #DCDCDC;
+        width: 100%;
+        height: 150px;
+        padding: 55px 18px;
+        font-size: 25pt;
+        border-radius: 10%;
+        font-family: Dosis;
+        font-weight: bold;
+        color: #726F6F;
+}
+
+.left_side_news h2{
+        font-family: Dosis;
+        font-weight: bold;
+        font-size: 24pt;
+}
+
+.left_side_news h3{
+        font-size: 12pt;
+        text-align: left;
+}
+
+.left_side_news h6{
+        font-size: 12pt;
+        text-align: left;
+}
+
+.left_side_section{
+        margin-top: 30px;
+}
+
+#contract_info{
+        min-height:500px;
+        background:url(../img/footer_top_bg.png) no-repeat center;
+        background-size: cover;
+        background-position:fixed;
+        padding: 75px 0;
+}
+
+.giraffe_content{
+        
+}
+
+.giraffe_content img{
+        
+}
+
+.giraffe_content p{
+        color: #5FBEFA;
+        font-family: Lato;
+        font-weight: lighter;
+}
+
+.giraffe_content p span{
+        color:black;
+}
+
+
+.giraffe_content ul{
+        list-style:none;
+        padding-left: 0px;
+}
+
+.giraffe_content ul li{
+        font-size:12pt;
+        font-family: Lato;
+        font-weight: 300;
+}
+
+.giraffe_content ul li i{
+        color:#1EC0FF;
+}
+
+.intagram_content h1{
+        font-family: Dosis;
+        font-size: 24pt;
+        text-transform: uppercase;
+        color: #F8D73E;
+}
+
+.intagram_content p{
+        font-size: 24pt;
+        color: #F8D73E;
+        margin-top: -20px;
+}
+
+.insta_photo h2{
+        font-family: Dosis;
+        font-weight: bold;
+        font-size: 20pt;
+        color: #6F6F6F;
+        background-color: #DCDCDC;
+        padding: 32px 14px;
+        height: 100px;
+        margin-bottom: 27px;
+}
+
+.contract_us h1{
+        text-transform: uppercase;
+        color: #68D67C;
+        font-size: 24pt;
+        font-family: Dosis;
+}
+
+.contract_us p{
+        font-size: 24pt;
+        color: #68D67C;
+        margin-top: -20px;
+}
+
+.contract_us h2{
+        font-size: 12pt;
+        font-family: Lato;
+        font-weight:lighter;
+}
+
+.newsletter_signup h1{
+        font-family: Dosis;
+        font-size: 24pt;
+        text-transform: uppercase;
+        color: #E45C5F;
+}
+
+.newsletter_signup p{
+        font-size: 24pt;
+        color: #E45C5F;
+        margin-top: -20px;
+}
+
+.newsletter_signup{
+        margin-right: -120px;
+}
+
+.newsletter_signup h2{
+        font-family: Lato;
+        font-size: 12pt;
+        font-weight: lighter;
+}
+
+.icon_group{
+        margin-right:-120px;
+}
+
+.insta_photo{
+        
+}
+
+.icon_style{
+        opacity: 0.35;
+        padding-left: 25px;
+        color: black;
+}
+
+.icon_rotate{
+        transform: rotate(50deg);
+        padding-top: 30px;
+}
+
+footer{
+        background-color:#F8D73E;
+        padding: 15px 0px;
+}
+.footer_nav{
+        padding: 5px 0px;
+}
+.footer_nav ul{}
+.footer_nav ul li{
+        list-style: none;
+        float: left;
+        padding-right: 20px;
+}
+.footer_nav ul li a{
+        font-family: Dosis;
+        font-weight: bold;
+        font-size: 15pt;
+        color: white;
+        padding-right: 10px;
+        border-right: 3px solid white;
+}
+
+footer h3{
+        font-family: Lato;
+        color: white;
+        font-size: 15pt;
+        font-weight: bold;
+        padding: 5px 0px;
+        margin-left: 100px;
+}
+
+#stand_by_profile{
+        
+}
+
+.links_tag{
+        margin-top: 60px;
+}
+
+.icon_stand{
+        color: #54BAFE;
+}
+
+.links_tag h1{
+        
+}
+
+.links_tag a h4{
+        color: #54BAFE;
+        font-size: 14pt;
+        font-family: Lato;
+        font-weight: 400;
+}
+
+.links_tag p{
+        font-family: Lato;
+        font-weight: 400;
+        font-size: 18pt;
+}
+
+.links_tag h5{
+        color: #54BAFE;
+        font-size: 15pt;
+        font-family: Lato;
+}
+.links_tag h5 a{
+        color: #54BAFE;
+        font-size: 15pt;
+        font-family: Lato;
+}
+
+.links_headline{
+    
+}
+
+.links_headline h1{
+        text-align: center;
+        font-family: Dosis;
+        font-size: 30pt;
+        font-weight: bold;
+        margin-top: 115px;    
+        text-transform: uppercase;
+}
+
+.links_headline p{
+        color: white;
+        font-size: 25pt;
+        text-shadow: 0px 9px #DCDCDC;
+}
+
+.standby_people{
+        margin-top: 50px;
+        margin-bottom: 40px;
+}
+
+.standby_people_left{
+        margin-bottom: 33px;
+}
+
+.standby_people_left h1{
+        background-color: #A7A7A7;
+        height: 280px;
+        padding: 115px 55px;
+        border-radius: 12%;
+        font-size: 30pt;
+        font-family: Dosis;
+        font-weight: bold;
+        color: #6F6F6F;
+}
+
+.standby_people h2{
+        font-family: Dosis;
+        font-weight: bold;
+        font-size: 24pt;
+}
+
+.standby_people h5{
+        font-family: Lato;
+        font-weight: 500;
+        font-size: 14pt;
+        border-bottom: 5px dotted #DCDCDC;
+        height: 40px;
+}
+
+.standby_people p{
+        font-family: Lato;
+        font-size: 12pt;
+        font-weight: 300;
+}
+.standby_icon_style{
+        padding-right: 20px;
+        font-size: 20px;
+        padding-top: 8px;
+}
+.follow{
+        padding-top:20px;
+}
+
+.follow a{
+        font-size: 18pt;
+        font-weight: bold;
+        color: black;
+        font-family: Dosis;
+        text-decoration: underline;
+}
